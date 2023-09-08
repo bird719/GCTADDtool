@@ -1,0 +1,16 @@
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin rgb(158, 200, 100) solid;
+}
+
+.app-header .pf {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.p1 {
+    font-family: "Sans-serif";
+    font-size: 15px;
+}
+
